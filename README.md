@@ -1,6 +1,6 @@
 ## Welcome to Chad's Lex Chatbot Test Page!
 
-This is a <b>bold</b> test. Do you <i>like</i> it?<br />
+Hey, here's a link to the [Chatbot webpage](index.html)<br />
 You can use THE [editor on GitHub](https://github.com/chadvice/lexchatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
